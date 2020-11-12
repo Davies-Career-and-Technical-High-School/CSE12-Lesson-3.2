@@ -1,0 +1,2 @@
+run = "bash run_button.sh"
+langauge = "java10"
